@@ -26,7 +26,7 @@ RESTfull service that calculates prime numbers up to Integer.MAX_VALUE.
     {
         "lowerLimit":"<lowerLimit>",
         "upperLimit":"<upperLimit>",
-        "primes": [array of prime numbers in provided range]
+        "primes": ["array of prime numbers in provided range"]
     }
     ```
 
