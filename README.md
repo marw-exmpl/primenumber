@@ -32,5 +32,5 @@ RESTfull service that calculates prime numbers up to Integer.MAX_VALUE.
 
 ## Management
 
-* Running application: mvn spring-boot:run.
-* Application listens on port 8080.
+* Running application: mvn spring-boot:run
+* Application listens on port 8080
